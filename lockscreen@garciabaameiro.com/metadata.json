@@ -1,0 +1,12 @@
+{
+  "name": "Extension List",
+  "description": "Simple gnome shell extension to use xscreensaver in top panel",
+  "gettext-domain": "screen-lock",
+  "settings-schema": "org.gnome.shell.extensions.screen-lock",
+  "shell-version": [
+    "40"
+  ],
+  "url": "https://github.com/Sawyer13/screen-lock",
+  "uuid": "screen-lock@garciabaameiro.com",
+  "version": 1
+}
